@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919239807701",
+    "project_id": "fire-7fcdd",
+    "storage_bucket": "fire-7fcdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919239807701:android:24372f54c7ed2df2b3085c",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919239807701-dtr4vh8lochv55c6310bd9lmcdhhhpa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDolXQk1yXt3LLak4jXFjQVDNY9pEfRNyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919239807701-dtr4vh8lochv55c6310bd9lmcdhhhpa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
